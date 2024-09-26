@@ -20,7 +20,8 @@
 2. like this again
 
 ---
-
+😄 
+**start with a : and search the emoji when we want to put one**
 <!-- here is how we let a simioma -->
 **bold writing**
 *small letters*
